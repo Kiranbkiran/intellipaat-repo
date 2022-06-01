@@ -1,2 +1,3 @@
-First line addedd addedd
+First line added
+Additional content for Stashing
 Stash update 1
